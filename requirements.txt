@@ -1,0 +1,9 @@
+flask
+setuptools
+ldap3
+pyasn1
+pycryptodome
+pytz
+six
+dnspython
+ms_active_directory
