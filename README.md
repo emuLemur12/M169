@@ -1,6 +1,7 @@
 # S.A.W.
 
-Attached Database: Active Directory \n
+Attached Database: Active Directory 
+#
 Das Active Directory wird aufgerufen. Es funktioniert jedoch im Netz meines Betriebes.
 
 Applikation
